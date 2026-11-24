@@ -1,0 +1,12 @@
+# Reading from what Claude is saying:
+
+# This is the index Neovim builds when you run :helptags
+doc/tags
+
+# Not that I am ever gonna use deps
+deps/
+tests/
+
+# In case you use a lualanguage-server with a personal setup. Not my case I
+# guess
+.luarc.json
